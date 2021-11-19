@@ -1,4 +1,4 @@
-# tiny_theaters_assessment
+
 # Tiny Theaters Assessment
 ## Tasks
 _TODO_ Add time estimates to each of the top-level tasks
